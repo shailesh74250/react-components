@@ -2,10 +2,10 @@
   "name": "storybook-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "storybook": "storybook dev -p 6006",
+    "start": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
   "keywords": [],
@@ -22,9 +22,13 @@
     "@storybook/react": "^7.0.5",
     "@storybook/react-webpack5": "^7.0.5",
     "@storybook/testing-library": "^0.0.14-next.2",
+    "@types/jest": "^29.5.3",
+    "@types/react": "^18.2.17",
+    "@types/react-dom": "^18.2.7",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "storybook": "^7.0.5"
+    "storybook": "^7.0.5",
+    "typescript": "^5.1.6"
   }
 }
