@@ -1,2 +1,2 @@
 # storybook-app
-storybook app react with typescript
+React reusable components with help of Storybook.
