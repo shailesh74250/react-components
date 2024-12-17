@@ -1,0 +1,50 @@
+Some use cases are:
+- Data fetching
+- Global state management
+- UI components
+- Schema validation
+- Virtualisation
+- Working with dates
+- Internationalisation
+- Charts and visualisations
+
+I have been working with React for more than
+4 years now.
+
+I have slowly picked up the libraries that are
+both flexible and fit for the right job.
+
+Here's my go-to list of libraries these days:
+
+1. react-router:
+For routing in your application
+
+2. reduxjs/toolkit:
+For global state management
+
+3. @tanstack/react-query
+For data-fetching and caching on the front-end
+
+4. @tanstack/react-table
+For building powerful tables and data grids
+
+5. @radix-ui
+For primitive components of the app
+
+6. recharts
+For building customizable charts and visualizations
+
+7. react-select
+For building async dropdowns
+
+8. react-hook-form
+For building performant forms
+
+9. classNames
+For merging classNames
+
+10. motion
+For building smooth animations
+
+11. date-fns
+For working with dates
